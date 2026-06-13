@@ -1,37 +1,70 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF004D&height=240&section=header&text=Eyad%20Amir%20Sultan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20%7C%20Network%20Student%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=19" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI+Tools+and+Smart+Systems;Learning+Networks+and+Cybersecurity;Python+%7C+Automation+%7C+Linux+%7C+CCNA;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-<br><br>
 <img src="https://img.shields.io/badge/AI%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black" />
 <img src="https://img.shields.io/badge/Networks-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-FF004D?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 </div>
----
-## 🚀 About Me
-I'm **Eyad Amir Sultan**, a technology student from **Egypt** focused on **Computer Networks, AI tools, Cybersecurity, Automation, and Web Development**.
+
+⸻
+
+🚀 About Me
+
+I’m Eyad Amir Sultan, a technology student from Egypt focused on Computer Networks, AI tools, Cybersecurity, Automation, and Web Development.
+
 I like building real projects, testing new ideas, and turning simple concepts into useful systems. My goal is to grow as a developer and security-minded engineer who can build tools that solve real problems.
+
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-- 🎓 Technology / Networks Student
-- 🌐 Learning CCNA, Routing, Switching, VLANs, and Network Security
-- 🤖 Building and exploring AI agents, local AI, and smart assistants
-- 💻 Working with Python, Web Development, Linux, and Automation
-- 🔐 Interested in Ethical Cybersecurity and Defensive Testing
-- 🚀 Always improving through real projects
+
+* 🎓 Technology / Networks Student
+* 🌐 Learning CCNA, Routing, Switching, VLANs, and Network Security
+* 🤖 Building and exploring AI agents, local AI, and smart assistants
+* 💻 Working with Python, Web Development, Linux, and Automation
+* 🔐 Interested in Ethical Cybersecurity and Defensive Testing
+* 🚀 Always improving through real projects
+
 <br clear="right" />
----
-## 🧠 Tech Stack
+
+⸻
+
+🧠 Tech Stack
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,html,css,js,linux,git,github,vscode,wordpress,mysql,arduino,raspberrypi" />
 </div>
----
-## ⚡ Current Focus
 
-AI Assistants        ███████████░░░  Learning & Building
-Computer Networks    ████████████░░  CCNA / Switching / Routing
-Cybersecurity        █████████░░░░░  Ethical Testing & Defense
-Web Development      ██████████░░░░  WordPress / HTML / CSS / JS
-Automation           █████████░░░░░  Scripts & AI Workflows
+⸻
+
+⚡ Current Focus
+
+<table>
+<tr>
+<td><b>AI Assistants</b></td>
+<td>███████████░░░</td>
+<td>Learning & Building</td>
+</tr>
+<tr>
+<td><b>Computer Networks</b></td>
+<td>████████████░░</td>
+<td>CCNA / Switching / Routing</td>
+</tr>
+<tr>
+<td><b>Cybersecurity</b></td>
+<td>█████████░░░░░</td>
+<td>Ethical Testing & Defense</td>
+</tr>
+<tr>
+<td><b>Web Development</b></td>
+<td>██████████░░░░</td>
+<td>WordPress / HTML / CSS / JS</td>
+</tr>
+<tr>
+<td><b>Automation</b></td>
+<td>█████████░░░░░</td>
+<td>Scripts & AI Workflows</td>
+</tr>
+</table>
 
 ⸻
 
