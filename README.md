@@ -26,7 +26,7 @@ I like building real projects, testing new ideas, and turning simple concepts in
 </div>
 ---
 ## ⚡ Current Focus
-```text
+
 AI Assistants        ███████████░░░  Learning & Building
 Computer Networks    ████████████░░  CCNA / Switching / Routing
 Cybersecurity        █████████░░░░░  Ethical Testing & Defense
