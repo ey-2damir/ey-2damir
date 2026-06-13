@@ -9,13 +9,17 @@
 
 ⸻
 
+<div align="center">
+  <img width="100%" src="assets/network-animation.svg" alt="Eyad Network Animation" />
+</div>
+
+⸻
+
 🚀 About Me
 
 I’m Eyad Amir Sultan, a technology student from Egypt focused on Computer Networks, AI tools, Cybersecurity, Automation, and Web Development.
 
 I like building real projects, testing new ideas, and turning simple concepts into useful systems. My goal is to grow as a developer and security-minded engineer who can build tools that solve real problems.
-
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 * 🎓 Technology / Networks Student
 * 🌐 Learning CCNA, Routing, Switching, VLANs, and Network Security
@@ -23,8 +27,6 @@ I like building real projects, testing new ideas, and turning simple concepts in
 * 💻 Working with Python, Web Development, Linux, and Automation
 * 🔐 Interested in Ethical Cybersecurity and Defensive Testing
 * 🚀 Always improving through real projects
-
-<br clear="right" />
 
 ⸻
 
